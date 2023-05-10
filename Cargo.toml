@@ -1,0 +1,7 @@
+[package]
+name = "alias_proc_macros-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+allow_prefixed = { path = "../allow/allow_prefixed", version = "0.1.*" }
